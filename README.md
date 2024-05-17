@@ -13,7 +13,7 @@ Project topics:
 
 Programming languages used:
 - Python
-- SQL / NoSQL
+- SQL
 
 Libraries utilised:
 - Pandas
